@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sulpice.github.io/sitemap.xml
+Sitemap: https://sulpice.github.io/portofolio//sitemap.xml
