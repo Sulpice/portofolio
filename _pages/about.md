@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: I am a Ph.D. candidate in economics at Laval university and a member of CREATE
 
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research interests include International Trade, Development Economics, Micro-econometrics and the economics of risk. I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my CV for more details.
+My research interests include International Trade, Development Economics, Micro-econometrics and the economics of risk. I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my resume for more details.
 
 Here I want to share what I am most passionate about, that is, topics of inequality, as well as data science. This website is about the reasons and consequences of poverty and inequality, and about how data science can help to better understand and address it. How can we use data science to achieve what's most important, a decent life for everybody.
 
