@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Sulpice Amonle
-    - name: Date of Birth
-      value: 14th March 1879
+    # - name: Date of Birth
+    #   value: 
     - name: Languages
       value: English, French
 
@@ -89,16 +89,6 @@
         - Assisting with presentation materials (PowerPoint slides, tables, and graphs)
         - Drafting minutes of meetings for submission to Senior Management
 
-- title: Research and policy papers
-  type: nested_list
-  contents:
-    - title:
-        Global value chains, labor productivity, and inclusive growth in Africa empirical evidence from heterogeneous panel methods (2020). Joint work with Jeffrey Kouton
-        Journal of Social and Economic Development 23, 1-23
-    - title:
-        The dynamic impact of renewable energy consumption on economic growth The case of Cote d’Ivoire (2019).Joint work with Jeffrey Kouton
-        Journal of Economics and Sustainable Development 10 (18), 167-174
-
 - title: Technical Skills and Interests
   type: map
   contents:
@@ -111,14 +101,6 @@
     - name: Hobbies
       value: Traveling, Reading, Football, Board games
 
-- title: Services
-  type: time_table
-  contents:
-    - title: President EcoStat, the newspaper club of ENSEA, Abidjan
-      year: 2018 - 2019
-      description:
-        Production of one magazine, one newspaper and over than 50 reports; organization of an article contest;
-        planning activities and mobilizing resources for club initiatives
 
 - title: Scholarship, Fellowship, and Awards
   type: time_table
