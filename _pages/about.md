@@ -6,7 +6,7 @@ subtitle: I am a Ph.D. candidate in economics at Laval university and a member o
 
 profile:
   align: right
-  image: man.jpg
+  image: man1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 
