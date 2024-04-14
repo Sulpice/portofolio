@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I am a Ph.D. candidate in economics at Laval university and a member of CREATE
+subtitle: 
 
 profile:
   align: right
@@ -15,7 +15,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+I am a Ph.D. candidate in economics at Laval university and a member of CREATE
+<br/>
+<br/>
 My research interests include International Trade, Development Economics, Micro-econometrics and the economics of risk. 
 <br/>
 I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my <a target="_self" href="https://sulpice.github.io/portofolio/cv/">resume</a> for more details.
