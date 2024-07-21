@@ -25,7 +25,7 @@ I use quantitative models to address questions related to the socioeconomics imp
 <br/>
 <h2> <a href="#" style="text-decoration:none;">Recent and Upcomings Talks :</a> </h2>
 <p>
-In September, I will visit the <a target="_blank" href="https://international.institut-agro-rennes-angers.fr/phd-student">University of Rennes </a> as a young scholar.
+In September 2024, I will visit the <a target="_blank" href="https://international.institut-agro-rennes-angers.fr/phd-student">University of Rennes </a> as a young scholar.
 </p>
 <!-- <br/>
 <br/> -->
