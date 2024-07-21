@@ -23,9 +23,9 @@ My research interests include International Trade, Development Economics, Micro-
 I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my <a target="_self" href="https://sulpice.github.io/portofolio/cv/">resume</a> for more details.
 <br/>
 <br/>
-<h2 style="color:#2698ba;">Recent and Upcomings Talks :</h2>
+<h2> <a href="#" style="text-decoration:none;">Recent and Upcomings Talks :</a> </h2>
 <p>
-In September, I will visit the <a target="_self" href="https://international.institut-agro-rennes-angers.fr/phd-student">University of Rennes </a> as a young scholar.
+In September, I will visit the <a target="_blank" href="https://international.institut-agro-rennes-angers.fr/phd-student">University of Rennes </a> as a young scholar.
 </p>
 <!-- <br/>
 <br/> -->
