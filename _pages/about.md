@@ -21,6 +21,12 @@ I am a Ph.D. candidate in economics at Laval university and a member of CREATE
 My research interests include International Trade, Development Economics, Micro-econometrics and the economics of risk. 
 <br/>
 I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my <a target="_self" href="https://sulpice.github.io/portofolio/cv/">resume</a> for more details.
+<br/>
+<br/>
+<h2 style="color:#2698ba;">Recent and Upcomings Talks :</h2>
+<p>
+In September, I will visit the <a target="_self" href="https://international.institut-agro-rennes-angers.fr/phd-student">University of Rennes </a> as a young scholar.
+</p>
 <!-- <br/>
 <br/> -->
 <!-- Here I want to share what I am most passionate about, that is, topics of inequality, as well as data science. This website is about the reasons and consequences of poverty and inequality, and about how data science can help to better understand and address it. How can we use data science to achieve what's most important, a decent life for everybody. -->
