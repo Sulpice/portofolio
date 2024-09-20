@@ -295,6 +295,20 @@ blockquote {
   }
 }
 
+.navbar-expand-sm .navbar-nav .nav-link {
+  padding-right: 1.5rem;
+  padding-left: 0.5rem;
+}
+
+.navbar-nav .nav-link {
+  padding-right: 0px;
+  padding-left: 3px;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 0.5rem; /* Adjust margin as needed */
+}
+
 .navbar-toggler {
   .icon-bar {
     display: block;

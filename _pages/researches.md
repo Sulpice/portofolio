@@ -6,8 +6,8 @@ description:
 nav: true
 nav_order: 6
 ---
-<b>Working Papers</b>
-<br/>
+<div style="text-align: justify; text-justify: inter-word;">
+<h4>Working Papers</h4>
 <br/>
 
 * <b>Climate change and agri-food supply chains competitive and comparative advantages</b>
@@ -22,18 +22,34 @@ mate change induces a 0.06 percent decrease in global welfare, which is consider
 the 0.26 percent decrease observed when income effects are not considered. Additionally, lower-
 middle-income countries are found to be especially vulnerable to climate change.
 
+<br/>
+<br/>
+
 * <b>Total factor productivity, markups, and the role of climate change</b>
+
+<br/>
+<br/>
 
 * <b>Climate change, agricultural market uncertainty, and the network structure of trade</b>
 
 <br/>
 
-<b>Working Ongoing</b>
+<br/>
+
+<h4>Working Ongoing</h4>
+<br/>
+
+* <b>Climate change and agrifood supply chains comparative advantages, with Bruno Larue.</b>
+
 <br/>
 <br/>
 
-* Climate change and agrifood supply chains comparative advantages, with Bruno Larue.
+* <b>Productivity, markups, and the role of climate change, with Lota Tamini.</b>
 
-* Productivity, markups, and the role of climate change, with Lota Tamini.
+<br/>
+<br/>
 
-* Climate change, Agricultural market uncertainty, and the Network structure of trade, with Lota Tamini.
+* <b>Climate change, Agricultural market uncertainty, and the Network structure of trade, with Lota Tamini.</b>
+</div>
+
+
