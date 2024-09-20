@@ -15,10 +15,17 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Ph.D. candidate in economics at Laval university and a member of CREATE
+Welcome to my website ! 
+<br/>
+<br/>
+I am a Ph.D. candidate in economics at Laval university and a member of CREATE !
+<br/>
+<br/>
+Before that, I hold a M.Sc, in Economics and Statistics, and I have worked as an Economist Consultant at the <a target="_self" href="https://www.worldbank.org/en/home">World Bank</a>, as well as Economist at <a target="_self" href="https://agriculture.canada.ca/en">Agriculture and Agri-Food Canada</a>.
 <br/>
 <br/>
 My research interests include International Trade, Development Economics, Micro-econometrics and the economics of risk. 
+<br/>
 <br/>
 I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my <a target="_self" href="https://sulpice.github.io/portofolio/cv/">resume</a> for more details.
 <br/>
