@@ -22,6 +22,10 @@ Université Laval
 <br/>
 Full Professor, Department of Agri-Food Economics and Consumer Science, 
 <br/>
-Faculty of Agriculture and Food Sciences, and Canada Research Chair in International Agri-Food Trade
+Food Economics and Consumer Science,
+<br/>
+Faculty of Agriculture and Food Sciences,
+<br/>
+Canada Research Chair in International Agri-Food Trade
 <br/>
 Université Laval
