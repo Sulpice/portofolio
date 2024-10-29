@@ -24,7 +24,13 @@ I am a Ph.D. candidate in economics at Laval university and a member of CREATE !
 Before that, I hold a M.Sc, in Economics and Statistics, and I have worked as an Economist Consultant at the <a target="_self" href="https://www.worldbank.org/en/home">World Bank</a>, as well as Economist at <a target="_self" href="https://agriculture.canada.ca/en">Agriculture and Agri-Food Canada</a>.
 <br/>
 <br/>
-My research interests include International Trade, Development Economics, Micro-econometrics and the economics of risk. 
+My research interest includes : 
+<br/>
+Public Finance: Environmental taxation, Tax expenditures assessment, Public Finance Management (PFM) assessment.
+<br/>
+International development: Development Economics, Micro-econometrics, and the economics of risk.
+<br/>
+Econometrics and Statistics : Computable General Equilibrium (CGE) models, Time series econometrics, Panel data analysis.
 <br/>
 <br/>
 I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my <a target="_self" href="https://sulpice.github.io/portofolio/cv/">resume</a> for more details.
