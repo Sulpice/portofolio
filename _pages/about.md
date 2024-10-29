@@ -26,9 +26,12 @@ Before that, I hold a M.Sc, in Economics and Statistics, and I have worked as an
 <br/>
 My research interest includes : 
 <br/>
+<br/>
 Public Finance: Environmental taxation, Tax expenditures assessment, Public Finance Management (PFM) assessment.
 <br/>
+<br/>
 International development: Development Economics, Micro-econometrics, and the economics of risk.
+<br/>
 <br/>
 Econometrics and Statistics : Computable General Equilibrium (CGE) models, Time series econometrics, Panel data analysis.
 <br/>
