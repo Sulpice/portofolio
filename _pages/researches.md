@@ -23,7 +23,8 @@ the 0.26 percent decrease observed when income effects are not considered. Addit
 <br/>
 <br/>
 
-* <b>Productivity, markups, and the role of climate change, with Lota Tamini.</b>
+* <b>Productivity, markups, and the role of climate change, with Lota Tamini. <a href="{{ 'assets/pdf/presmidet05122024.pdf' | relative_url }}" target="_blank">[Slides]</a>
+</b>
 <br/>
 We employ a detailed establishment-level dataset from Canada to explore the role of climate shocks as a persistent determinant of heterogeneity in firm-level productivity and markups. Our results indicate that climate shocks reduce sales and average productivity among firms in sectors experiencing decreasing returns to scale. We also find that the ability of small firms to raise prices above marginal cost exceeds that of large firms. An increase in markup dispersion is associated with lower total factor productivity. In the model, firms with low marginal costs set higher markups, and their markups increase more after climate shocks.
 
