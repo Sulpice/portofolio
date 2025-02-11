@@ -41,6 +41,9 @@ I use quantitative models to address questions related to the socioeconomics imp
 <br/>
 <h2> <a href="#" style="text-decoration:none;">Recent and Upcomings Talks :</a> </h2>
 <p>
+I will present my paper <a target="_blank" href="https://web.cvent.com/event/334d2108-69f5-4ae4-b976-ced08c757224/summary">Climate change and agrifood comparative advantages</a>  written jointly with Bruno Larue and Lota Tamini at the 2025 CSAE conference.
+</p>
+<p>
 In September 2024, I will visit the <a target="_blank" href="https://international.institut-agro-rennes-angers.fr/phd-student">University of Rennes </a> as a young scholar.
 </p>
 <!-- <br/>
