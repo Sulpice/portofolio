@@ -41,6 +41,9 @@ I use quantitative models to address questions related to the socioeconomics imp
 <br/>
 <h2> <a href="#" style="text-decoration:none;">Recent and Upcomings Talks :</a> </h2>
 <p>
+I will be joining the World Bank Poverty and Equity team from January to June 2025 as a WBG-Africa Fellow.
+</p>
+<p>
 I will present my paper Climate change and agrifood comparative advantages written jointly with Bruno Larue and Lota Tamini at the 2025 <a target="_blank" href="https://web.cvent.com/event/334d2108-69f5-4ae4-b976-ced08c757224/summary">CSAE conference</a>.
 </p>
 <p>
