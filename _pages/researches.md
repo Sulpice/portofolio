@@ -10,7 +10,8 @@ nav_order: 6
 <h4>Working Ongoing</h4>
 <br/>
 
-* <b>Climate change and agrifood supply chains comparative advantages, with Bruno Larue.</b>
+* <b>Climate change, comparative advantages, and structural transformation in agriculture, with Bruno Larue. <a href="{{ 'assets/pdf/Chapter3_Final_version.pdf' | relative_url }}" target="_blank">[Paper]</a>
+</b>
 <br/>
 International trade literature often focuses heavily on the production side of general equilibrium,
 leaving several empirical puzzles unresolved. For instance, there is significant variation in income
