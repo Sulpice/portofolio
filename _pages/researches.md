@@ -7,19 +7,14 @@ nav: true
 nav_order: 6
 ---
 <div style="text-align: justify; text-justify: inter-word;">
-<h4>Working Ongoing</h4>
+<h4>Working Papers</h4>
 <br/>
 
 * <b>Climate change, comparative advantages, and structural transformation in agriculture, with Bruno Larue. <a href="{{ 'assets/pdf/Chapter3_Final_version.pdf' | relative_url }}" target="_blank">JMP [Paper]</a>
 </b>
 <br/>
-International trade literature often focuses heavily on the production side of general equilibrium,
-leaving several empirical puzzles unresolved. For instance, there is significant variation in income
-elasticities of food demand across products and countries. In this paper, we develop a general
-equilibrium Ricardian model of trade that allows for variation in the income elasticity of demand
-for agri-food products. We use this model to quantify the macro-level consequences of climate
-change under non-homothetic preferences. Despite heterogeneity, our findings indicate that climate change induces a 0.06 percent decrease in global welfare, which is considerably lower than
-the 0.26 percent decrease observed when income effects are not considered. Additionally, lower-middle-income countries are found to be especially vulnerable to climate change.
+This paper quantifies the consequences of climate change under nonhomothetic preferences. Using a general equilibrium Ricardian trade model, we assess how climate-induced productivity shocks affect welfare. We account for the role of income in shaping food
+demand and estimate the potential of international trade to mitigate welfare losses. Empirical estimates using a rich micro-level dataset on agricultural productivity suggest that climate change reduces global welfare by 4.6%, compared to just 0.26\% when income effects are ignored. Low-income countries suffer the largest impacts due to higher food expenditure shares and limited adaptive capacity. Importantly, the analysis shows that price effects matter more than structural reallocation, and that trade, especially through tariff reductions, can partially offset welfare losses by improving food access and reallocating resources more efficiently.
 
 <br/>
 <br/>
@@ -27,7 +22,7 @@ the 0.26 percent decrease observed when income effects are not considered. Addit
 * <b>Productivity, markups, and the role of climate change, with Lota Tamini. <a href="{{ 'assets/pdf/Chapter1_Final_version.pdf' | relative_url }}" target="_blank">[Paper]</a>
 </b>
 <br/>
-We employ a detailed establishment-level dataset from Canada to explore the role of climate shocks as a persistent determinant of heterogeneity in firm-level productivity and markups. Our results indicate that climate shocks reduce sales and average productivity among firms in sectors experiencing decreasing returns to scale. We also find that the ability of small firms to raise prices above marginal cost exceeds that of large firms. An increase in markup dispersion is associated with lower total factor productivity. In the model, firms with low marginal costs set higher markups, and their markups increase more after climate shocks.
+We use establishment-level data from Canada to examine how climate shocks affect productivity and markup in the agri-food sector. Our empirical strategy separates productivity measurement from markup recovery. We estimate total factor productivity  using a two-step estimator that is robust to optimization errors in input choices, unobserved cost shocks, and measurement errors in proxy variables. Firm-level markups are recovered under cost minimization as the ratio of the output elasticity of materials to their revenue share, with the required elasticities obtained from a Generalized Leontief cost system. Extreme temperature events reduce firm sales and productivity while raising marginal costs. Climate shocks compress markups, while price responses remain small, suggesting that agri-food firms absorb climate-induced cost increases through lower markups rather than passing them to consumers. Single-product firms experience significant declines in both productivity and markups. Responses also vary across multi-product firms, underscoring the role of firm characteristics in shaping vulnerability to climate shocks.
 
 <br/>
 <br/>
