@@ -3,7 +3,7 @@ layout: page
 permalink: /policypapers/
 title: Policy Papers
 description: 
-nav: true
+nav: false
 nav_order: 9
 ---
 
