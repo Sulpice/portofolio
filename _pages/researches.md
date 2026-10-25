@@ -34,11 +34,11 @@ We study how climate shocks shape exporters' behavior along the intensive and ex
 <h4>Publications</h4>
 <br/>
 
-<b>Global value chains, labor productivity, and inclusive growth in Africa: Empirical evidence from heterogeneous panel methods</b> (2020), with Jeffrey Kouton. <i>Journal of Social and Economic Development</i>, 23, 1–23. <a target="_blank" href="https://link.springer.com/article/10.1007/s40847-020-00108-y">[Online]</a>
+<b>Global value chains, labor productivity, and inclusive growth in Africa: Empirical evidence from heterogeneous panel methods</b> (2020), with Jeffrey Kouton. <i>Journal of Social and Economic Development</i>, 23, 1–23. <a target="_blank" href="https://link.springer.com/article/10.1007/s40847-020-00108-y">[Paper]</a>
 <br/>
 <br/>
 
-<b>The dynamic impact of renewable energy consumption on economic growth: The case of Côte d'Ivoire</b> (2019), with Jeffrey Kouton. <i>Journal of Economics and Sustainable Development</i>, 10(18), 167–174. <a target="_blank" href="https://core.ac.uk/download/pdf/234649526.pdf">[Online]</a>
+<b>The dynamic impact of renewable energy consumption on economic growth: The case of Côte d'Ivoire</b> (2019), with Jeffrey Kouton. <i>Journal of Economics and Sustainable Development</i>, 10(18), 167–174. <a target="_blank" href="https://core.ac.uk/download/pdf/234649526.pdf">[Paper]</a>
 
 <br/>
 <br/>
