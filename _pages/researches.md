@@ -10,11 +10,11 @@ nav_order: 6
 <h4>Working Papers</h4>
 <br/>
 
-* <b>Climate change, comparative advantages, and structural transformation in agriculture, with Bruno Larue. <a href="{{ 'assets/pdf/Chapter3_Final_version.pdf' | relative_url }}" target="_blank">JMP [Paper]</a>
+* <b>Climate change, comparative advantages, and structural transformation in agriculture. <a href="{{ 'assets/pdf/Chapter3_Final_version.pdf' | relative_url }}" target="_blank">JMP [Paper]</a>
 </b>
 <br/>
 This paper quantifies the consequences of climate change under nonhomothetic preferences. Using a general equilibrium Ricardian trade model, we assess how climate-induced productivity shocks affect welfare. We account for the role of income in shaping food
-demand and estimate the potential of international trade to mitigate welfare losses. Empirical estimates using a rich micro-level dataset on agricultural productivity suggest that climate change reduces global welfare by 4.6%, compared to just 0.26\% when income effects are ignored. Low-income countries suffer the largest impacts due to higher food expenditure shares and limited adaptive capacity. Importantly, the analysis shows that price effects matter more than structural reallocation, and that trade, especially through tariff reductions, can partially offset welfare losses by improving food access and reallocating resources more efficiently.
+demand and estimate the potential of international trade to mitigate welfare losses. Empirical estimates using a rich micro-level dataset on agricultural productivity suggest that climate change reduces global welfare by 4.6%, compared to just 0.26% when income effects are ignored. Low-income countries suffer the largest impacts due to higher food expenditure shares and limited adaptive capacity. Importantly, the analysis shows that price effects matter more than structural reallocation, and that trade, especially through tariff reductions, can partially offset welfare losses by improving food access and reallocating resources more efficiently.
 
 <br/>
 <br/>
