@@ -40,15 +40,22 @@ We use establishment-level data from Canada to examine how climate shocks affect
 <br/>
 
 <b>Climate Change, Agricultural Market Uncertainty, and the Network Structure of Trade</b>, with Lota Tamini.
+<br/>
+<br/>
+<b>Fiscal Spending and Import Leakages: Evidence from Public Procurement</b>.
 
 <br/>
 <br/>
 <h4>Policy Work</h4>
 <br/>
 
+Ouedraogo, A., M. Coulibaly, F. Koné, <b>S. Amonle</b>, K. Nayihouba, F. Dieng, and K. K. Koné (2025). <i>Evaluating How Fiscal Policy Shapes Gender Disparities in Togo: A Pilot Study in West Africa</i>. World Bank, Poverty, Equity and Gender Global Practice.
+<br/>
+<br/>
+
 World Bank (2022). <i>World Development Report 2022: Finance for an Equitable Recovery</i>. Washington, DC: World Bank. Contributed data compilation and analysis of post-disaster assessments. <a target="_blank" href="https://openknowledge.worldbank.org/server/api/core/bitstreams/e1e22749-80c3-50ea-b7e1-8bc332d0c2ff/content">[Report]</a>
 <br/>
 <br/>
 
-World Bank (2025). <i>Listening to Citizens of Ukraine Survey</i>. Contributed to [votre rôle : data harmonization, analysis…]. <a target="_blank" href="https://www.worldbank.org/en/country/ukraine/brief/listening-to-citizens-of-ukraine-survey">[Web]</a>
+World Bank (2025). <i>Listening to Citizens of Ukraine Survey</i>. Contributed to [votre rôle]. <a target="_blank" href="https://www.worldbank.org/en/country/ukraine/brief/listening-to-citizens-of-ukraine-survey">[Web]</a>
 </div>
