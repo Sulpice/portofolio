@@ -3,7 +3,7 @@ layout: page
 permalink: /references/
 title: My References
 description: 
-nav: true
+nav: false
 nav_order: 12
 ---
 
