@@ -43,8 +43,12 @@ We use establishment-level data from Canada to examine how climate shocks affect
 
 <br/>
 <br/>
-<h4>Policy Reports</h4>
+<h4>Policy Work</h4>
 <br/>
 
 World Bank (2022). <i>World Development Report 2022: Finance for an Equitable Recovery</i>. Washington, DC: World Bank. Contributed data compilation and analysis of post-disaster assessments. <a target="_blank" href="https://openknowledge.worldbank.org/server/api/core/bitstreams/e1e22749-80c3-50ea-b7e1-8bc332d0c2ff/content">[Report]</a>
+<br/>
+<br/>
+
+World Bank (2025). <i>Listening to Citizens of Ukraine Survey</i>. Contributed to [votre rôle : data harmonization, analysis…]. <a target="_blank" href="https://www.worldbank.org/en/country/ukraine/brief/listening-to-citizens-of-ukraine-survey">[Web]</a>
 </div>
