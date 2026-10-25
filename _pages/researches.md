@@ -56,7 +56,7 @@ Ouedraogo, A., M. Coulibaly, F. Koné, S. Amonle, K. Nayihouba, F. Dieng, and K.
 <br/>
 <br/>
 
-World Bank (2022). <i>World Development Report 2022: Finance for an Equitable Recovery</i>. Washington, DC: World Bank. Contributed data compilation and analysis of post-disaster assessments. <a target="_blank" href="https://openknowledge.worldbank.org/server/api/core/bitstreams/e1e22749-80c3-50ea-b7e1-8bc332d0c2ff/content">[Report]</a>
+World Bank (2022). <i>World Development Report 2022: Finance for an Equitable Recovery</i>. Washington, DC: World Bank. <a target="_blank" href="https://openknowledge.worldbank.org/server/api/core/bitstreams/e1e22749-80c3-50ea-b7e1-8bc332d0c2ff/content">[Report]</a>
 <br/>
 <br/>
 
