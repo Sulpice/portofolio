@@ -37,7 +37,6 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
-  font-weight: 500;
   
   &:hover {
     color: var(--global-theme-color);
@@ -1086,3 +1085,8 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
+
+/* Liens en gras dans le contenu des pages uniquement */
+   article a {
+     font-weight: 500;
+   }
