@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching experience
+title: Teaching
 description: 
 nav: true
-nav_order: 11
+nav_order: 4
 ---
 <b>Teaching Assistant, Université Laval</b>
 
