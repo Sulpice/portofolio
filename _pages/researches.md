@@ -52,7 +52,7 @@ We study how climate shocks shape exporters' behavior along the intensive and ex
 <h4>Policy Work</h4>
 <br/>
 
-Ouedraogo, A., M. Coulibaly, F. Koné, <b>S. Amonle</b>, K. Nayihouba, F. Dieng, and K. K. Koné (2025). <i>Evaluating How Fiscal Policy Shapes Gender Disparities in Togo: A Pilot Study in West Africa</i>. World Bank, Poverty, Equity and Gender Global Practice.
+Ouedraogo, A., M. Coulibaly, F. Koné, S. Amonle, K. Nayihouba, F. Dieng, and K. K. Koné (2025). <i>Evaluating How Fiscal Policy Shapes Gender Disparities in Togo: A Pilot Study in West Africa</i>. World Bank, Poverty, Equity and Gender Global Practice.
 <br/>
 <br/>
 
