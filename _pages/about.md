@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate, Université Laval
+subtitle:
 
 profile:
   align: left
@@ -14,6 +14,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+<div style="overflow: hidden;">
+
 <p>
 I am a Ph.D. candidate in Agricultural and International Economics at <a href="https://www.fsaa.ulaval.ca/faculte/departement-deconomie-agroalimentaire-et-des-sciences-de-la-consommation" target="_blank">Université Laval</a>. My research interests lie at the intersection of international trade, macroeconomics, and environmental economics.
 </p>
@@ -29,9 +31,15 @@ Before and alongside my Ph.D., I worked at the <a href="https://www.worldbank.or
 </p>
 
 <p>
-<a href="{{ '/researches/' | relative_url }}">Research</a> &nbsp;·&nbsp; <a href="{{ 'assets/pdf/Resume_Sulpice_Amonle.pdf' | relative_url }}" target="_blank">CV (PDF)</a>
+<a href="{{ '/researches/' | relative_url }}">Research</a> &nbsp;·&nbsp; <a href="{{ 'assets/pdf/Resume_Sulpice_Amonle.pdf' | relative_url }}" target="_blank">CV (PDF)</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sulpiceamonle" target="_blank">LinkedIn</a>
 </p>
 
-<p>
-<b>Email:</b> <a href="mailto:sulpice-mahunan.amonle.1@ulaval.ca">sulpice-mahunan.amonle.1@ulaval.ca</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sulpiceamonle" target="_blank">LinkedIn</a>
+<hr>
+
+<p style="font-size: 0.95rem;">
+Get in touch at <a href="mailto:sulpice-mahunan.amonle.1@ulaval.ca">sulpice-mahunan.amonle.1@ulaval.ca</a>
+<br/>
+<span style="color: var(--global-text-color-light);">Department of Agri-Food Economics and Consumer Science, Université Laval, Québec, Canada</span>
 </p>
+
+</div>
