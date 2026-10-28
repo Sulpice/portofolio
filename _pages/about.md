@@ -26,8 +26,12 @@ I am a Ph.D. candidate in Agricultural and International Economics at <a href="h
 My doctoral research examines how economic and climate-related shocks affect productivity, international trade, and economic welfare. In my <a href="{{ 'assets/pdf/Chapter3_Final_version.pdf' | relative_url }}" target="_blank">job market paper</a>, I develop a multi-country Ricardian trade model with non-homothetic preferences to assess the welfare consequences of climate-induced agricultural productivity shocks. Combining spatially disaggregated productivity data with bilateral trade and expenditure data, I investigate how food prices, consumption patterns, and trade policies shape welfare losses across countries.
 </p>
 
+</div>
+
+<div style="clear: both;">
+
 <p>
-Before and alongside my Ph.D., I worked at the <a href="https://www.worldbank.org/en/topic/poverty" target="_blank">World Bank</a>, <a href="https://agriculture.canada.ca/en" target="_blank">Agriculture and Agri-Food Canada</a>, and the <a href="https://www.bceao.int" target="_blank">Central Bank of West African States (BCEAO)</a>.
+Before and alongside my Ph.D., I worked at the <a href="https://www.worldbank.org/en/topic/poverty" target="_blank">World Bank</a>, <a href="https://agriculture.canada.ca/en" target="_blank">Agriculture and Agri-Food Canada</a>, and the <a href="https://www.bceao.int" target="_blank">Central Bank of West African States</a>.
 </p>
 
 <p>
