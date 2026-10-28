@@ -2,57 +2,62 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Ph.D. Candidate in Agricultural and International Economics, Université Laval
 
 profile:
   align: right
   image: man3.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p><a href="https://www.fsaa.ulaval.ca/faculte/departement-deconomie-agroalimentaire-et-des-sciences-de-la-consommation" target="_blank">Department of Agri-Food Economics and Consumer Science</a></p>
+    <p>Université Laval, Québec, Canada</p>
+    <p><a href="mailto:sulpice-mahunan.amonle.1@ulaval.ca">sulpice-mahunan.amonle.1@ulaval.ca</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Welcome to my website ! 
-<br/>
-<br/>
-I am a Ph.D. candidate in economics at Laval university and a member of CREATE !
-<br/>
-<br/>
-Before that, I hold a M.Sc, in Economics and Statistics, and I have worked as an Economist Consultant at the <a target="_self" href="https://www.worldbank.org/en/home">World Bank</a>, as well as Economist at <a target="_self" href="https://agriculture.canada.ca/en">Agriculture and Agri-Food Canada</a>.
-<br/>
-<br/>
-My research interest includes : 
-<br/>
-<br/>
-Public Finance: Environmental taxation, Tax expenditures assessment, Public Finance Management (PFM) assessment.
-<br/>
-<br/>
-International development: Development Economics, Micro-econometrics, and the economics of risk.
-<br/>
-<br/>
-Econometrics and Statistics : Computable General Equilibrium (CGE) models, Time series econometrics, Panel data analysis.
-<br/>
-<br/>
-I use quantitative models to address questions related to the socioeconomics impact of climate change and adaptation strategies. I also work on national representative household surveys to address poverty and inequality questions in developing countries. Please see my <a target="_self" href="https://sulpice.github.io/portofolio/cv/">resume</a> for more details.
-<br/>
-<br/>
-<h2> <a href="#" style="text-decoration:none;">Recent and Upcomings Talks :</a> </h2>
-<p>
-I will be joining the World Bank Poverty and Equity team from January to June 2025 as a WBG-Africa Fellow.
-</p>
-<p>
-I will present my paper Climate change and agrifood comparative advantages written jointly with Bruno Larue and Lota Tamini at the 2025 <a target="_blank" href="https://web.cvent.com/event/334d2108-69f5-4ae4-b976-ced08c757224/summary">CSAE conference</a>.
-</p>
-<p>
-In September 2024, I will visit the <a target="_blank" href="https://international.institut-agro-rennes-angers.fr/phd-student">University of Rennes </a> as a young scholar.
-</p>
-<!-- <br/>
-<br/> -->
-<!-- Here I want to share what I am most passionate about, that is, topics of inequality, as well as data science. This website is about the reasons and consequences of poverty and inequality, and about how data science can help to better understand and address it. How can we use data science to achieve what's most important, a decent life for everybody. -->
+<div style="text-align: justify; text-justify: inter-word;">
 
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
+<p>
+I am a Ph.D. candidate in Agricultural and International Economics at <a href="https://www.ulaval.ca/en" target="_blank">Université Laval</a> and a member of <a href="https://www.create.ulaval.ca/" target="_blank">CREATE</a>, advised by Lota D. Tamini and Bruno Larue. <b>I am on the 2026–2027 job market.</b>
+</p>
 
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<p>
+My research studies how climate shocks propagate through agricultural production, firms, and international trade, and what this implies for welfare. In my <a href="{{ 'assets/pdf/Chapter3_Final_version.pdf' | relative_url }}" target="_blank">job market paper</a>, I combine spatially disaggregated data on crop-specific productivity with a multi-country Ricardian trade model with non-homothetic preferences, and show that differences in food expenditure shares amplify the welfare losses from climate change in poorer economies. In other work, I use Canadian firm-level data to study how climate shocks affect productivity, markups, and export dynamics in the agri-food sector.
+</p>
+
+<p>
+I have worked with the <a href="https://www.worldbank.org/en/topic/poverty" target="_blank">World Bank's Poverty and Equity Global Practice</a> and, in 2025, as a World Bank Group Fellow in the <a href="https://www.worldbank.org/en/region/afr" target="_blank">Africa Region</a>. In 2024, I was a macroeconomist (Ph.D. intern) at <a href="https://agriculture.canada.ca/en" target="_blank">Agriculture and Agri-Food Canada</a>. Earlier, I worked at the <a href="https://www.bceao.int" target="_blank">Central Bank of West African States (BCEAO)</a>. I hold an M.Sc. in Economics and Statistics from <a href="https://www.ensea.ed.ci" target="_blank">ENSEA</a> (Abidjan).
+</p>
+
+<p>
+<b>Primary fields:</b> Macroeconomics, International Trade, Applied Econometrics<br/>
+<b>Secondary fields:</b> Environmental Economics, Structural Change
+</p>
+
+<p>
+Please see my <a href="{{ '/researches/' | relative_url }}">research</a> and my <a href="{{ '/cv/' | relative_url }}">CV</a> for more details.
+</p>
+
+<h4>Recent Presentations and Visits</h4>
+
+<ul>
+<li><b>May 2026</b> — Société canadienne de science économique (SCSE), Québec</li>
+<li><b>Nov. 2025</b> — Africa Training Workshop in Macro-Econometrics</li>
+<li><b>May 2025</b> — Canadian Economics Association Annual Conference</li>
+<li><b>Mar. 2025</b> — <a href="https://web.cvent.com/event/334d2108-69f5-4ae4-b976-ced08c757224/summary" target="_blank">CSAE Conference: Economic Development in Africa</a>, University of Oxford</li>
+<li><b>Sep. 2024</b> — Visiting Ph.D. student (Erasmus Mundus), <a href="https://international.institut-agro-rennes-angers.fr/phd-student" target="_blank">Institut Agro Rennes-Angers</a>, France</li>
+<li><b>Jul. 2023</b> — Joint CAES/SCAE–WAEA Agri-Food Policy Conference, Vancouver</li>
+</ul>
+
+
+<h4>References</h4>
+
+<p>
+<b>Lota D. Tamini</b>, Full Professor, Department of Agri-Food Economics and Consumer Science, Université Laval<br/>
+<b>Bruno Larue</b>, Full Professor and Canada Research Chair in International Agri-Food Trade, Department of Agri-Food Economics and Consumer Science, Université Laval
+</p>
+
+</div>
