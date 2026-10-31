@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 <div style="overflow: hidden;">
 
 <p>
-I am a Ph.D. candidate in Agricultural and International Economics at <a href="https://www.fsaa.ulaval.ca/faculte/departement-deconomie-agroalimentaire-et-des-sciences-de-la-consommation" target="_blank">Université Laval</a>. My research interests lie at the intersection of international trade, macroeconomics, and environmental economics.
+I am a Ph.D. candidate in Agricultural and International Economics at <a href="https://www.fsaa.ulaval.ca/faculte/departement-deconomie-agroalimentaire-et-des-sciences-de-la-consommation" target="_blank">Université Laval</a>. My research interests lie at the intersection of <b>international trade</b>, <b>macroeconomics</b>, and <b>environmental economics</b>.
 </p>
 
 <p><b>I am on the 2026–2027 job market.</b></p>
